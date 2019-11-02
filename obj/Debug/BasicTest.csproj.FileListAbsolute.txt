@@ -1,0 +1,7 @@
+C:\Users\Burn's hand\Desktop\Csharp\BasicTest\bin\Debug\BasicTest.exe.config
+C:\Users\Burn's hand\Desktop\Csharp\BasicTest\bin\Debug\BasicTest.exe
+C:\Users\Burn's hand\Desktop\Csharp\BasicTest\bin\Debug\BasicTest.pdb
+C:\Users\Burn's hand\Desktop\Csharp\BasicTest\obj\Debug\BasicTest.csprojAssemblyReference.cache
+C:\Users\Burn's hand\Desktop\Csharp\BasicTest\obj\Debug\BasicTest.csproj.CoreCompileInputs.cache
+C:\Users\Burn's hand\Desktop\Csharp\BasicTest\obj\Debug\BasicTest.exe
+C:\Users\Burn's hand\Desktop\Csharp\BasicTest\obj\Debug\BasicTest.pdb
